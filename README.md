@@ -1,1 +1,2 @@
 **This is an ECG Image Classification Project using Deep Learning CNN Model. It detects Abnormal Heartbeat (Arrhythmia) from an ECG Image.**
+Built a Convolutional Neural Network (CNN) model to classify ECG images as normal or abnormal. Preprocessed ECG signal plots into grayscale images and augmented data to improve generalization. Designed and trained a CNN using TensorFlow and Keras, achieving good accuracy in detecting arrhythmias. 
